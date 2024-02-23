@@ -67,7 +67,7 @@ UsageTo get 100 user agents of browser `chrome` based on operating systems `wind
 License
 -------
 
-The MIT License (MIT). Please see [License File](https://github.com/Luqman-Ud-Din/random_user_agent/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/solotop999/solotop_random_user_agent/blob/main/LICENSE) for more information.
 
 Special thanks to @Luqman-Ud-Din.
 
